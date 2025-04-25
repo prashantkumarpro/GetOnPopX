@@ -4,11 +4,11 @@ import BottomHeader from './components/BottomHeader'
 
 const Root = () => {
   return (
-    <div>
-      <div className='px-4 py-2'>
-        <Outlet />
+    <div className='bg-white'>
+      <Outlet />
+      <div className='fixed bottom-0 left-0 w-full bg-white shadow-md'>
+        <BottomHeader />
       </div>
-      <BottomHeader />
     </div>
   )
 }

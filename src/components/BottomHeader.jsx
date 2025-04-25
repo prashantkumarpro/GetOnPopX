@@ -7,7 +7,7 @@ import { GiEgyptianProfile } from 'react-icons/gi'
 const BottomHeader = () => {
   return (
     <div className=' w-full max-w-sm m-auto'>
-      <div className='flex items-center justify-between mt-4 gap-2 absolute bottom-0 w-full max-w-sm bg-white p-2 border-t border-gray-200 px-4'>
+      <div className='flex items-center justify-between mt-4 gap-2  w-full max-w-sm bg-white p-2 border-t border-gray-200 px-4'>
         {/* Home */}
         <Link
           to='/'
