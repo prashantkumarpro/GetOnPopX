@@ -5,7 +5,9 @@ import BottomHeader from './components/BottomHeader'
 const Root = () => {
   return (
     <div>
-      <Outlet />
+      <div className='px-4 py-2'>
+        <Outlet />
+      </div>
       <BottomHeader />
     </div>
   )
