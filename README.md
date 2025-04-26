@@ -143,7 +143,7 @@ Distributed under the [MIT License](LICENSE).
 
 ---
 
-> **Made with 💜 by [Prashant Kumar]**
+> **Made with 💜 by Prashant Kumar**
 
 ---
 
