@@ -36,8 +36,8 @@ const Profile = () => {
   }
 
   return (
-    <div className='max-w-sm mx-auto bg-white shadow-md rounded-md p-4 mt-20'>
-      <div className='flex items-start space-x-4'>
+    <div className='w-full max-w-sm  shadow-md rounded-md p-4 absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2'>
+      <div className='flex items-start   space-x-4'>
         <div className='relative group'>
           <div className='size-20 rounded-full bg-gray-200 overflow-hidden'>
             <img
@@ -53,7 +53,7 @@ const Profile = () => {
           {/* Upload Icon */}
           <div className='absolute bottom-0 right-0 w-5 h-5 rounded-full flex items-center justify-center border-2 border-white cursor-pointer'>
             <label htmlFor='upload' className='cursor-pointer'>
-            <MdAddAPhoto />
+              <MdAddAPhoto />
 
               <input
                 id='upload'

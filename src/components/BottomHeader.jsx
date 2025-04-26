@@ -1,8 +1,8 @@
 import { Link } from 'react-router'
 import { RiHome3Fill } from 'react-icons/ri'
 import { FiLogIn } from 'react-icons/fi'
-import { SiGnuprivacyguard } from 'react-icons/si'
 import { GiEgyptianProfile } from 'react-icons/gi'
+import { MdAppRegistration } from 'react-icons/md'
 
 const BottomHeader = () => {
   return (
@@ -11,7 +11,7 @@ const BottomHeader = () => {
         {/* Home */}
         <Link
           to='/'
-          className='relative group text-gray-600 hover:text-gray-800'
+          className='relative group text-violet-600 hover:text-violet-800'
         >
           <RiHome3Fill className='text-2xl' />
           <span className='sr-only'>Home</span>
@@ -23,7 +23,7 @@ const BottomHeader = () => {
         {/* Login */}
         <Link
           to='/login'
-          className='relative group text-gray-600 hover:text-gray-800'
+          className='relative group text-violet-600 hover:text-violet-800'
         >
           <FiLogIn className='text-2xl' />
           <span className='sr-only'>Login</span>
@@ -35,19 +35,19 @@ const BottomHeader = () => {
         {/* Create Account */}
         <Link
           to='/create'
-          className='relative group text-gray-600 hover:text-gray-800'
+          className='relative group text-violet-600 hover:text-violet-800'
         >
-          <SiGnuprivacyguard className='text-2xl' />
-          <span className='sr-only'>Create</span>
+          <MdAppRegistration className='text-2xl' />
+          <span className='sr-only'>Form</span>
           <div className='absolute bottom-full mb-2 px-2 py-1 text-xs text-white bg-black rounded opacity-0 group-hover:opacity-100 transition'>
-            Create
+            Form
           </div>
         </Link>
 
         {/* Profile */}
         <Link
           to='/profile'
-          className='relative group text-gray-600 hover:text-gray-800'
+          className='relative group text-violet-600 hover:text-violet-800'
         >
           <GiEgyptianProfile className='text-2xl' />
           <span className='sr-only'>Profile</span>
