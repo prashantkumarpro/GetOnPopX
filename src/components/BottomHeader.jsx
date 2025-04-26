@@ -34,13 +34,13 @@ const BottomHeader = () => {
 
         {/* Create Account */}
         <Link
-          to='/create'
+          to='/create-account'
           className='relative group text-violet-600 hover:text-violet-800'
         >
           <MdAppRegistration className='text-2xl' />
-          <span className='sr-only'>Form</span>
+          <span className='sr-only'>Signup</span>
           <div className='absolute bottom-full mb-2 px-2 py-1 text-xs text-white bg-black rounded opacity-0 group-hover:opacity-100 transition'>
-            Form
+          Signup
           </div>
         </Link>
 
