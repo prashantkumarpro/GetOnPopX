@@ -114,9 +114,7 @@ Access it at [http://localhost:5173](http://localhost:5173)
 
 | Create Account | Login | Profile | Home |
 | :------------: | :---------: | :----------: | :------: |
-|(https://github.com/user-attachments/assets/976d23e9-117a-4f81-a618-57a49e7ca7e9)
-)
-/signup.png) | ![Login Screenshot](./screenshots/login.png) | ![Profile Screenshot](./screenshots/profile.png) | ![Home Screenshot](./screenshots/home.png) |
+|![Signup Screenshot](https://github.com/user-attachments/assets/976d23e9-117a-4f81-a618-57a49e7ca7e9)/signup.png) | ![Login Screenshot](./screenshots/login.png) | ![Profile Screenshot](./screenshots/profile.png) | ![Home Screenshot](./screenshots/home.png) |
 
 ---
 
