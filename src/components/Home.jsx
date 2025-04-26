@@ -9,7 +9,7 @@ const Home = () => {
           Welcome to PopX
         </h1>
         <p className='text-sm text-gray-600 mb-6'>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet totam voluptates, accusamus maiores consequatur labore!
         </p>
         <Link
           to='/create'
