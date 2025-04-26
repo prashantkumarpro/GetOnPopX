@@ -112,9 +112,9 @@ Access it at [http://localhost:5173](http://localhost:5173)
 
 ## 📸 Screenshots
 
-| Create Account | Login | Profile | Home |
+|Home | Login |  Create Account | Profile |
 | :------------: | :---------: | :----------: | :------: |
-|![Signup Screenshot](https://github.com/user-attachments/assets/976d23e9-117a-4f81-a618-57a49e7ca7e9)) | ![Login Screenshot](./screenshots/login.png) | ![Profile Screenshot](./screenshots/profile.png) | ![Home Screenshot](./screenshots/home.png) |
+|![Home Screenshot](https://github.com/user-attachments/assets/976d23e9-117a-4f81-a618-57a49e7ca7e9) | ![Signup Screenshot](https://github.com/user-attachments/assets/c9b027ff-eae8-47af-8a8a-806de0dfb241) | ![Login Screenshot](https://github.com/user-attachments/assets/7fb24eeb-5a2d-4286-9f25-d40f940859b7) | ![Profile Screenshot](./screenshots/profile.png) | ![Home Screenshot](https://github.com/user-attachments/assets/976d23e9-117a-4f81-a618-57a49e7ca7e9) |
 
 ---
 
