@@ -17,17 +17,13 @@ It features **Home**, **Login**, **Create Account**, and **Profile** pages using
 
 ## 🌐 Live Demo
 
-👉 [View Live Project Here](https://your-live-link.com)  
-> _Don't forget to replace the above link with your deployed app!_
-
+👉 [View Live Project Here](https://get-on-pop-x.vercel.app/)  
 ---
 
 ## 🧩 Folder Structure
 
 ```
 GETONPOPX/
-├── node_modules/
-├── public/
 ├── src/
 │   ├── assets/
 │   ├── components/
@@ -58,7 +54,7 @@ GETONPOPX/
 - 🎨 Styled beautifully using **TailwindCSS**
 - 🔐 **Protected Profile Route** (after login)
 - 🗂️ **LocalStorage** to save form data
-- 🔗 Page navigation using **React Router DOM**
+- 🔗 Page navigation using **React Router**
 - 📱 Fully responsive design
 - ♿ Accessible form fields using `fieldset` and `legend`
 - 🧹 Clean and modular component structure
@@ -118,7 +114,8 @@ Access it at [http://localhost:5173](http://localhost:5173)
 
 | Create Account | Login | Profile | Home |
 | :------------: | :---------: | :----------: | :------: |
-| ![Signup Screenshot](./![image](https://github.com/user-attachments/assets/a805f1fa-f0ac-443d-97a1-93a9a32551b3)
+|(https://github.com/user-attachments/assets/976d23e9-117a-4f81-a618-57a49e7ca7e9)
+)
 /signup.png) | ![Login Screenshot](./screenshots/login.png) | ![Profile Screenshot](./screenshots/profile.png) | ![Home Screenshot](./screenshots/home.png) |
 
 ---
