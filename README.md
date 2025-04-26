@@ -112,7 +112,7 @@ Access it at [http://localhost:5173](http://localhost:5173)
 
 ## 📸 Screenshots
 
-|Home | Login |  Create Account | Profile |
+|Home | Login | Signup | Profile |
 | :------------: | :---------: | :----------: | :------: |
 |![Home Screenshot](https://github.com/user-attachments/assets/63d84804-3441-444f-86f8-1cd057bf37a1) | ![Login Screenshot](https://github.com/user-attachments/assets/c74c5d65-225e-4114-a384-fc8a8196c8b8) | ![Signup Screenshot](https://github.com/user-attachments/assets/d50d509e-0135-46d1-b95d-f5cb3750c1b5) | ![Profile Screenshot](https://github.com/user-attachments/assets/49247032-bc05-43d1-bb4f-fa3152cac276) |
 
@@ -143,14 +143,7 @@ Distributed under the [MIT License](LICENSE).
 
 ---
 
-> **Made with 💜 by [Your Name]**
+> **Made with 💜 by [Prashant Kumar]**
 
 ---
 
-# ⚡ FINAL TASKS FOR YOU:
-- Replace `your-username` in the Git clone URL
-- Replace `your-live-link.com` with your deployed link
-- Update **Your Name** in the footer
-- Add real screenshots under `/screenshots` folder
-
----
