@@ -12,7 +12,7 @@ const Home = () => {
           Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet totam voluptates, accusamus maiores consequatur labore!
         </p>
         <Link
-          to='/create'
+          to='/create-account'
           className='w-full text-center block bg-violet-600 hover:bg-violet-700 text-white py-2 rounded-md text-sm font-medium mb-2'
         >
           Create Account
